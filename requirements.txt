@@ -20,7 +20,7 @@ click==6.6
 colorlover==0.2.1
 constraint==0.4.1
 coverage==4.2
-cryptography==2.1.4
+cryptography==3.2
 cufflinks==0.12.1
 cvxopt==1.1.9
 cycler==0.10.0
