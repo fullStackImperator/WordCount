@@ -97,7 +97,7 @@ prompt-toolkit==1.0.15
 protobuf==3.6.1
 psycopg2==2.7.1
 ptyprocess==0.6.0
-py==1.4.31
+py==1.10.0
 py-bcrypt==0.4
 pyasn1==0.4.2
 pycparser==2.14
