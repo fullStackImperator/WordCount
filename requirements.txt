@@ -142,7 +142,7 @@ tldextract==2.0.2
 tokenize-rt==2.0.1
 tornado==5.0.1
 traitlets==4.3.2
-Twisted==13.0.0
+Twisted==20.3.0
 Unidecode==0.4.19
 urllib3==1.22
 vine==1.1.4
